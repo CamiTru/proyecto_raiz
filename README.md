@@ -10,7 +10,7 @@ https://camitru.github.io/proyecto_raiz/
 HTML5, CSS3, JavaScript y GitHub Pages.
 
 ## 📁 Estructura del Proyecto
-
+```
 libreria-raiz/
 ├── css/
 │   └── main.css        # Estilos del sitio
