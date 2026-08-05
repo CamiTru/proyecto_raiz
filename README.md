@@ -36,23 +36,23 @@ libreria-raiz/
 
 1. Clonar el repositorio:
 
-git clone [https://github.com/CamiTru/proyecto_raiz.git]
+`git clone [https://github.com/CamiTru/proyecto_raiz.git]`
 
 2. Navegar a la carpeta del proyecto:
 
-cd proyecto_raiz
+`cd proyecto_raiz`
 
 3. Abrir el sitio en el navegador:
 
-Opción 1: Haz doble clic en el archivo index.html.
+Opción 1: Haz doble clic en el archivo index.html.\  
 Opción 2: Usa la extensión Live Server de Visual Studio Code haciendo clic derecho en index.html y seleccionando Open with Live Server.
 
 ## 🌿 Convención de ramas
 Sigue estas reglas de trabajo
 
-> Nunca trabajes ni hagas commits directamente sobre la rama main.
-> Toda nueva funcionalidad o corrección debe crearse en una rama secundaria basada en main.
-> Ejemplos de nombres de ramas:
-feat/nombre-de-la-funcionalidad
-fix/descripcion-del-error 
-> Realiza tus cambios utilizando Conventional Commits.
+* Nunca trabajes ni hagas commits directamente sobre la rama main.
+* Toda nueva funcionalidad o corrección debe crearse en una rama secundaria basada en main.
+* Ejemplos de nombres de ramas:
+    feat/nombre-de-la-funcionalidad
+    fix/descripcion-del-error 
+* Realiza tus cambios utilizando Conventional Commits.
